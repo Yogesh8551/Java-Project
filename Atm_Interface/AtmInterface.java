@@ -1,5 +1,3 @@
-package Atm_Interface;
-
 import java.util.Scanner;
 
 interface ATM{
